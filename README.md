@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🔭 I’m currently working on Cybersecurity tools, network monitoring systems, and custom automation scripts for system integration.<br>👯 I’m looking to collaborate on Open-source security projects, ethical hacking tools, and anything that makes systems smarter and safer.<br>🤝 I’m looking for help with Penetration testing frameworks, advanced malware analysis, and cross-platform integration solutions.<br>🌱 I’m currently learning Reverse engineering, exploit development, and next-level encryption techniques.<br>💬 Ask me about Cybersecurity, system integration, Python/C++ development, or how to lock down your digital fortress.<br>⚡ Fun fact, I once turned an old PC into a virtual attack lab – now it’s scared of me.
 
 
